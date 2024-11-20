@@ -1,0 +1,36 @@
+.container {
+    min-width: 300px;
+    min-height: 200px;
+    background-color: rgb(12, 12, 12);
+    color: red;
+}
+h2 {
+    word-wrap:break-word;
+    overflow: auto;
+    word-spacing: 50%;
+    margin: 20px;
+    gap: 5px;
+    border: 2px solid rgb(146, 207, 231);
+}
+.flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: end; 
+    /* gap: 10px; */
+    /* margin-right: 20px; */
+    /* margin-bottom: 5px; */
+}
+button {
+    margin-top: 10px;
+    margin-right: 25px;
+    background-color: aqua;
+    color: black;
+    font-size: 1rem;
+}
+button:hover {
+    cursor: pointer;
+    background-color: black;
+    color: aqua;
+    padding-top: 2px;
+}

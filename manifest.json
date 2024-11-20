@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Cat fact",
+    "description": "Get facts about cats",
+    "version": "1.0",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "cat.png"
+    }
+  }
