@@ -5,6 +5,8 @@
     color: red;
 }
 h2 {
+    font-size: x-large;
+    font-family: monospace;
     word-wrap:break-word;
     overflow: auto;
     word-spacing: 50%;
